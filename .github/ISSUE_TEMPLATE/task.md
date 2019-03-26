@@ -1,8 +1,8 @@
 ---
 name: Task
 about: Describe the task
-title: Feature name - (if part of feature) task name
-labels: Task
+title: task descriptive title
+labels: ''
 assignees: ''
 
 ---
